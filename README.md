@@ -20,7 +20,7 @@ Además de estas vistas, se necesitarán funciones y métodos para realizar cál
 
 | Figura | Figura | Figura |
 |--------|--------|--------|
-| ![imagen](img/1.png)|![imagen](img/2.png) |![imagen](img/3.png) |
+| ![imagen](Inicio de Sesión.jpeg)|![imagen](img/2.png) |![imagen](img/3.png) |
 | ![imagen](img/4.png)|![imagen](img/5.png) |![imagen](img/6.png) |
 | ![imagen](img/7.png)|![imagen](img/8.png) |![imagen](img/9.png) |
 | ![imagen](img/10.png)|![imagen](img/11.png) |![imagen](img/12.png) |
