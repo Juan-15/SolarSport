@@ -15,13 +15,4 @@ Muestra estadísticas detalladas sobre el consumo de energía, como el consumo p
 ### Pantalla de consejos: 
 Proporciona consejos y recomendaciones personalizadas para reducir el consumo de energía en función de los datos registrados.
 Además de estas vistas, se necesitarán funciones y métodos para realizar cálculos y manipulaciones de datos, como calcular estadísticas, realizar comparativas y buscar elementos en estructuras de datos como ArrayList y HashMap. También se requerirá el uso de condicionales (if, when), ciclos (for, while) y conceptos de programación orientada a objetos, como clases, herencia y polimorfismo.
-
-## Solución 
-
-| Figura | Figura | Figura |
-|--------|--------|--------|
-| ![imagen](Inicio de Sesión.jpeg)|![imagen](img/2.png) |![imagen](img/3.png) |
-| ![imagen](img/4.png)|![imagen](img/5.png) |![imagen](img/6.png) |
-| ![imagen](img/7.png)|![imagen](img/8.png) |![imagen](img/9.png) |
-| ![imagen](img/10.png)|![imagen](img/11.png) |![imagen](img/12.png) |
-| ![imagen](img/13.png)|![imagen](img/114.png) |![imagen](img/15.png) |
+![image](https://github.com/user-attachments/assets/686e5064-7546-4819-b960-894af2e4af32)
