@@ -1,4 +1,4 @@
-# solarsport
+# SolarSport
 ## Aplicación móvil de monitoreo de consumo de energía (“SolarSport”): 
 Crea una aplicación que permita a los usuarios registrar y realizar un seguimiento de su consumo de energía en diferentes categorías (electricidad, agua, gas, etc.). Utiliza variables, operaciones y estructuras de datos para calcular y mostrar estadísticas, como el consumo promedio, comparativas entre períodos y consejos para reducir el consumo.
 se sugiere tener las siguientes vistas:
